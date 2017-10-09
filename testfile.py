@@ -1,1 +1,1 @@
-print "ASD"
+print "2"
