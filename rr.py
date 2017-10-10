@@ -1,0 +1,2 @@
+print "Anton samii krutoi"
+
